@@ -201,15 +201,15 @@ object Form7: TForm7
     Connected = True
     ConnectionString = 
       'Provider=Microsoft.Jet.OLEDB.4.0;User ID=Admin;Data Source=C:\Us' +
-      'ers\pc\Documents\semester 4o\pemprograman visual 2\tugas delphie' +
-      '2\jadwal_db.mdb;Mode=Share Deny None;Persist Security Info=False' +
-      ';Jet OLEDB:System database="";Jet OLEDB:Registry Path="";Jet OLE' +
-      'DB:Database Password="";Jet OLEDB:Engine Type=5;Jet OLEDB:Databa' +
-      'se Locking Mode=1;Jet OLEDB:Global Partial Bulk Ops=2;Jet OLEDB:' +
-      'Global Bulk Transactions=1;Jet OLEDB:New Database Password="";Je' +
-      't OLEDB:Create System Database=False;Jet OLEDB:Encrypt Database=' +
-      'False;Jet OLEDB:Don'#39't Copy Locale on Compact=False;Jet OLEDB:Com' +
-      'pact Without Replica Repair=False;Jet OLEDB:SFP=False'
+      'ers\LENOVO\Documents\semester 4o\pemprograman visual 2\tugas del' +
+      'phie2\jadwal_db.mdb;Mode=Share Deny None;Persist Security Info=F' +
+      'alse;Jet OLEDB:System database="";Jet OLEDB:Registry Path="";Jet' +
+      ' OLEDB:Database Password="";Jet OLEDB:Engine Type=5;Jet OLEDB:Da' +
+      'tabase Locking Mode=1;Jet OLEDB:Global Partial Bulk Ops=2;Jet OL' +
+      'EDB:Global Bulk Transactions=1;Jet OLEDB:New Database Password="' +
+      '";Jet OLEDB:Create System Database=False;Jet OLEDB:Encrypt Datab' +
+      'ase=False;Jet OLEDB:Don'#39't Copy Locale on Compact=False;Jet OLEDB' +
+      ':Compact Without Replica Repair=False;Jet OLEDB:SFP=False'
     LoginPrompt = False
     Mode = cmShareDenyNone
     Provider = 'Microsoft.Jet.OLEDB.4.0'
